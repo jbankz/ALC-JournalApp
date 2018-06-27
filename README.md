@@ -49,5 +49,3 @@ The users can leave the app by signing out.
 
 ### Undone Parts
 * Not done all Unit Tests
-* Not done CircleCI Integration
-
