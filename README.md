@@ -1,6 +1,7 @@
 # ALC-JournalApp
 A journal application where in users can pen down their thoughts and feelings.
 
+# Andela Journal-App
 Journal App is a simple application where in users can pen down their thoughts and feelings. 
 The user clicks on a button which takes the user a screen where the user can add an activity and the user can also update an activity by clicking on the item that needs to be updated.
 
@@ -26,11 +27,13 @@ You will need the following to run this project:
 ### Authentication Page
 The User will be presented with the Authentication Page, where they are required to authenticate themselves using Google Login
 
-<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_two.png" width="280"/> 
+<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_one.png" width="280"/><img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_two.png" width="280"/> 
 
 ### Main Dashboard 
 After being authenticated, the user is redirected to the Main Dashboard Page, which is the Main Activity in our application. The Dashboard shows the app has no activity added, and gives the User the options to:
+
 * Add New Journal
+
 <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/main_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/main_two.png" width="280"/> 
 
 ### Journal Insert and Update Page
@@ -41,3 +44,4 @@ The users can leave the app by signing out.
 
 ### Undone Parts
 * Not done all Unit Tests
+
