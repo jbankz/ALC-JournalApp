@@ -45,6 +45,8 @@ This page enables the user to update an item and also add another item to previo
 ### Sign Out
 The users can leave the app by signing out.
 
+<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/sign_out.png" width="280"/> 
+
 ### Undone Parts
 * Not done all Unit Tests
 
