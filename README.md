@@ -27,7 +27,9 @@ You will need the following to run this project:
 ### Authentication Page
 The User will be presented with the Authentication Page, where they are required to authenticate themselves using Google Login
 
-<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_one.png" width="280"/><img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_two.png" width="280"/> 
+
+<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_two.png" width="280"/> 
+
 
 ### Main Dashboard 
 After being authenticated, the user is redirected to the Main Dashboard Page, which is the Main Activity in our application. The Dashboard shows the app has no activity added, and gives the User the options to:
