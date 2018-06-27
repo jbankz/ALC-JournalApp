@@ -28,7 +28,7 @@ You will need the following to run this project:
 The User will be presented with the Authentication Page, where they are required to authenticate themselves using Google Login
 
 
-<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/screenshots/authentication_two.png" width="280"/> 
+<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/authentication_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/authentication_two.png" width="280"/> 
 
 
 ### Main Dashboard 
@@ -40,7 +40,8 @@ After being authenticated, the user is redirected to the Main Dashboard Page, wh
 
 ### Journal Insert and Update Page
 This page enables the user to update an item and also add another item to previous lists
-<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/add_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/add_two.png" width="280"/> 
+<img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/add_one.png" width="280"/>   <img src="https://github.com/jbankz/ALC-JournalApp/blob/master/Screenshots/add_two.png" width="280"/>
+
 ### Sign Out
 The users can leave the app by signing out.
 
