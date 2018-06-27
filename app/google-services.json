@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "38156381309",
+    "firebase_url": "https://my-projects-6a42a.firebaseio.com",
+    "project_id": "my-projects-6a42a",
+    "storage_bucket": "my-projects-6a42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38156381309:android:c1d51a2daa63f2cf",
+        "android_client_info": {
+          "package_name": "bankzworld.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38156381309-g6dueh33jf3tr7gjauvl8r7hrffom6d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bankzworld.com",
+            "certificate_hash": "9af2476fd3acc6c972f169cabc17c7eae712c55a"
+          }
+        },
+        {
+          "client_id": "38156381309-ap43reo0gnq7vs9oj2iarj52u2600om5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "38156381309-ap43reo0gnq7vs9oj2iarj52u2600om5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFEDrsVDfvENPjpqs8Cd3Nd23oYczouw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38156381309-ap43reo0gnq7vs9oj2iarj52u2600om5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
